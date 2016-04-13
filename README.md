@@ -1,0 +1,2 @@
+# mygitshared
+for study
